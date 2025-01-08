@@ -1,5 +1,4 @@
 
-
 class Task {
   String content;
   DateTime timestamp;

@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
     _deviceHeight = MediaQuery.of(context).size.height;
     _deviceWidth = MediaQuery.of(context).size.width;
 
-    print("Input value: $newTaskContent");
+    // print("Input value: $newTaskContent");
 
     return Scaffold(
       appBar: AppBar(
