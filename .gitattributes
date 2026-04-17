@@ -1,0 +1,8 @@
+
+# Treat Dart as the primary language
+*.dart linguist-language=Dart
+
+# Ignore Makefile and other config files for language analysis
+Makefile linguist-vendored
+CMakeLists.txt linguist-vendored
+*.sh linguist-vendored
